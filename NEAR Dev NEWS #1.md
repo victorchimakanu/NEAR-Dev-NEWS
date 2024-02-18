@@ -63,7 +63,12 @@ virtual:
 
 Asia:
 
+- 1/25/2024 | Jakarta, Indonesia | BUILDRS Lounge by Pintu [Link]
+
 Europe:
+
+- 1/18/2024 | London Business School | LBS Blockchain Society
+[London Blockchain Summit](https://www.londonblockchainsummit.xyz)
 
 Africa:
 
