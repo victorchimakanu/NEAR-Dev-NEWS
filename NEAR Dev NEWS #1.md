@@ -5,9 +5,6 @@ Hello and welcome to NEAR Dev NEWS. The NEAR Blockchain is an open source opera
 This is a weekly summary of our Developer communities progress and technical updates. Want something mentioned? Tag us at [NEARDevHub] on Twitter or [send us a pull request]. Want to get involved? [Fellowship].
 
 NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If you find any errors in this week's issue, please submit a [PR].
-
-
------
 &nbsp; 
 ### Updates from NEAR DevHub**
 
@@ -15,9 +12,9 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 - 
 
------
+
 &nbsp; 
-### Project/Tooling Updates
+### BOS/Tooling Updates
 
 - new version of the data analytics solution [PikesPeak](https://pikespeak.ai/)
 - 
@@ -43,12 +40,6 @@ Always wanted to contribute to open-source projects but did not know where to st
 
 Some of these Quests may also have mentors available, visit the task page for more information.
 
-### Updates from BOS 
-
--
-
--
-
 ### BOS VM Performance Triage
 
 **Summary**:
@@ -69,7 +60,7 @@ A call for trusted devs to test out BOS Web Engine and provide feedback for some
 &nbsp; 
 ## Upcoming Events
 
-#### virtual**: NA
+#### virtual: NA
 
 #### Asia:
 
