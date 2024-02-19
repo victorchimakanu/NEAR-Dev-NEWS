@@ -42,10 +42,12 @@ Always wanted to contribute to open-source projects but did not know where to st
 
 Some of these Quests may also have mentors available, visit the task page for more information.
 
+&nbsp; 
 ### BOS VM PERFORMANCE TRIAGE
 
 **SUMMARY**:
 
+&nbsp; 
 **TRACKING ISSUES & PRs**
 
 -
@@ -56,7 +58,7 @@ Some of these Quests may also have mentors available, visit the task page for mo
 ### CALL FOR TESTING: BOS WEB ENGINE
 A call for trusted devs to test out BOS Web Engine and provide feedback for some $NEAR
 
------
+
 &nbsp; 
 # UPCOMING EVENTS
 
@@ -82,7 +84,7 @@ A call for trusted devs to test out BOS Web Engine and provide feedback for some
 If you are running a Local NEAR event please register as a Hackbox host [here], you can also add your event to the calendar to get it mentioned here. Please remember to add a link to the event too. 
 
 
------
+
 &nbsp; 
 **Quote of the Week:**
 
