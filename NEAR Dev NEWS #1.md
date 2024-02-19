@@ -5,6 +5,8 @@ Hello and welcome to NEAR Dev NEWS. The NEAR Blockchain is an open source opera
 This is a weekly summary of our Developer communities progress and technical updates. Want something mentioned? Tag us at [NEARDevHub] on Twitter or [send us a pull request]. Want to get involved? [Fellowship].
 
 NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If you find any errors in this week's issue, please submit a [PR].
+
+----
 &nbsp; 
 ### UPDATES from NEAR DevHub
 
@@ -14,20 +16,20 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 
 &nbsp; 
-## BOS/TOOLS UPDATES
+### BOS/TOOLS UPDATES
 
 - new version of the data analytics solution [PikesPeak](https://pikespeak.ai/)
 - 
 
-## OBSERVATIONS / THOUGHTS
+### OBSERVATIONS / THOUGHTS
 
 -
 
 -
 
-
+----
 &nbsp; 
-## ARTICLES / TUTORIALS
+### ARTICLES / TUTORIALS
 
 - [Understanding Transactions on the NEAR Protocol Explorer 🔎](https://near.social/devhub.near/widget/app?page=blog&id=3034)
 - [DevHub 2023: Rebranding and Transforming Developer experience](https://near.social/devhub.near/widget/app?page=blog&id=2991)
