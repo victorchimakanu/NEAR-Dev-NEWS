@@ -6,7 +6,7 @@ This is a weekly summary of our Developer communities progress and technical upd
 
 NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If you find any errors in this week's issue, please submit a [PR].
 &nbsp; 
-## Updates from NEAR DevHub
+### Updates from NEAR DevHub
 
 - 
 
