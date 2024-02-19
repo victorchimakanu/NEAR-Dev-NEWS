@@ -6,7 +6,7 @@ This is a weekly summary of our Developer communities progress and technical upd
 
 NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If you find any errors in this week's issue, please submit a [PR].
 &nbsp; 
-### Updates from NEAR DevHub
+### UPDATES from NEAR DevHub
 
 - 
 
@@ -14,12 +14,12 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 
 &nbsp; 
-## BOS/Tooling Updates
+## BOS/TOOLS UPDATES
 
 - new version of the data analytics solution [PikesPeak](https://pikespeak.ai/)
 - 
 
-## Observations/Thoughts
+## OBSERVATIONS / THOUGHTS
 
 -
 
@@ -27,56 +27,55 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 
 &nbsp; 
-## Articles / Tutorials
+## ARTICLES / TUTORIALS
 
 - [Understanding Transactions on the NEAR Protocol Explorer 🔎](https://near.social/devhub.near/widget/app?page=blog&id=3034)
 - [DevHub 2023: Rebranding and Transforming Developer experience](https://near.social/devhub.near/widget/app?page=blog&id=2991)
 
 ----
 &nbsp; 
-## Call for Projects
+## CALL FOR PROJECTS
 
 Always wanted to contribute to open-source projects but did not know where to start? Every week we highlight some On-Chain Quests from the Developer Community for you to pick and get started!
 
 Some of these Quests may also have mentors available, visit the task page for more information.
 
-## BOS VM Performance Triage
+## BOS VM PERFORMANCE TRIAGE
 
-**Summary**:
+**SUMMARY**:
 
-**Tracking Issues & PRs**
-
--
+**TRACKING ISSUES & PRs**
 
 -
 
+-
 
 &nbsp; 
-## Call for testing: BOS Web Engine
-
+## CALL FOR TESTING: BOS WEB ENGINE
 A call for trusted devs to test out BOS Web Engine and provide feedback for some $NEAR
 
 -----
 &nbsp; 
-# Upcoming Events
+# UPCOMING EVENTS
 
-### virtual: NA
+### VIRTUAL: N/A
 
-### Asia:
+### ASIA:
 
 - 1/25/2024 | Jakarta, Indonesia | BUILDRS Lounge by Pintu [Link]
 
-### Europe
+### EUROPE
 
 - 1/18/2024 | London Business School | LBS Blockchain Society
 [London Blockchain Summit](https://www.londonblockchainsummit.xyz)
 
-### The United States
+### THE UNITED STATES 
 
 - 3/18/2024 | San Francisco, CA | NF Gaming team - Mark, Alexey, Dillon.
 [GDC - Game Developer's Conference](https://gdconf.com/)
 
-### Africa:
+### AFRICA: N/A 
+
 
 If you are running a Local NEAR event please register as a Hackbox host [here], you can also add your event to the calendar to get it mentioned here. Please remember to add a link to the event too. 
 
