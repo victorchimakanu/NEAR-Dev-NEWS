@@ -6,7 +6,10 @@ This is a weekly summary of our Developer communities progress and technical upd
 
 NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If you find any errors in this week's issue, please submit a [PR].
 
-**Updates from NEAR DevHub**
+
+-----
+&nbsp; 
+### Updates from NEAR DevHub**
 
 - 
 
@@ -14,12 +17,12 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 -----
 &nbsp; 
-**Project/Tooling Updates**
+### Project/Tooling Updates
 
 - new version of the data analytics solution [PikesPeak](https://pikespeak.ai/)
 - 
 
-**Observations/Thoughts**
+### Observations/Thoughts
 
 -
 
@@ -27,20 +30,20 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 -----
 &nbsp; 
-**Articles / Tutorials**
+### Articles / Tutorials
 
 - [Understanding Transactions on the NEAR Protocol Explorer 🔎](https://near.social/devhub.near/widget/app?page=blog&id=3034)
 - [DevHub 2023: Rebranding and Transforming Developer experience](https://near.social/devhub.near/widget/app?page=blog&id=2991)
 
 ----
 &nbsp; 
-## **Call for Projects**
+### Call for Projects
 
 Always wanted to contribute to open-source projects but did not know where to start? Every week we highlight some On-Chain Quests from the Developer Community for you to pick and get started!
 
 Some of these Quests may also have mentors available, visit the task page for more information.
 
-## **Updates from BOS**
+### Updates from BOS 
 
 -
 
