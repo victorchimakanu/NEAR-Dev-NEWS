@@ -6,7 +6,7 @@ This is a weekly summary of our Developer communities progress and technical upd
 
 NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If you find any errors in this week's issue, please submit a [PR].
 &nbsp; 
-### Updates from NEAR DevHub**
+## Updates from NEAR DevHub
 
 - 
 
@@ -14,18 +14,18 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 
 &nbsp; 
-### BOS/Tooling Updates
+## BOS/Tooling Updates
 
 - new version of the data analytics solution [PikesPeak](https://pikespeak.ai/)
 - 
 
-### Observations/Thoughts
+## Observations/Thoughts
 
 -
 
 -
 
------
+
 &nbsp; 
 ### Articles / Tutorials
 
@@ -40,7 +40,7 @@ Always wanted to contribute to open-source projects but did not know where to st
 
 Some of these Quests may also have mentors available, visit the task page for more information.
 
-### BOS VM Performance Triage
+## BOS VM Performance Triage
 
 **Summary**:
 
@@ -50,15 +50,15 @@ Some of these Quests may also have mentors available, visit the task page for mo
 
 -
 
------
+
 &nbsp; 
-### Call for testing: BOS Web Engine
+## Call for testing: BOS Web Engine
 
 A call for trusted devs to test out BOS Web Engine and provide feedback for some $NEAR
 
 -----
 &nbsp; 
-## Upcoming Events
+# Upcoming Events
 
 #### virtual: NA
 
