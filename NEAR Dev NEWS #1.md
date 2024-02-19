@@ -27,14 +27,14 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 
 &nbsp; 
-### Articles / Tutorials
+## Articles / Tutorials
 
 - [Understanding Transactions on the NEAR Protocol Explorer 🔎](https://near.social/devhub.near/widget/app?page=blog&id=3034)
 - [DevHub 2023: Rebranding and Transforming Developer experience](https://near.social/devhub.near/widget/app?page=blog&id=2991)
 
 ----
 &nbsp; 
-### Call for Projects
+## Call for Projects
 
 Always wanted to contribute to open-source projects but did not know where to start? Every week we highlight some On-Chain Quests from the Developer Community for you to pick and get started!
 
@@ -60,23 +60,23 @@ A call for trusted devs to test out BOS Web Engine and provide feedback for some
 &nbsp; 
 # Upcoming Events
 
-#### virtual: NA
+### virtual: NA
 
-#### Asia:
+### Asia:
 
 - 1/25/2024 | Jakarta, Indonesia | BUILDRS Lounge by Pintu [Link]
 
-#### Europe
+### Europe
 
 - 1/18/2024 | London Business School | LBS Blockchain Society
 [London Blockchain Summit](https://www.londonblockchainsummit.xyz)
 
-#### The United States
+### The United States
 
 - 3/18/2024 | San Francisco, CA | NF Gaming team - Mark, Alexey, Dillon.
 [GDC - Game Developer's Conference](https://gdconf.com/)
 
-#### Africa:
+### Africa:
 
 If you are running a Local NEAR event please register as a Hackbox host [here], you can also add your event to the calendar to get it mentioned here. Please remember to add a link to the event too. 
 
