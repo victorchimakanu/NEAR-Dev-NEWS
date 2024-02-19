@@ -59,32 +59,39 @@ Some of these Quests may also have mentors available, visit the task page for mo
 
 -
 
+-----
+&nbsp; 
 ### Call for testing: BOS Web Engine
 
 A call for trusted devs to test out BOS Web Engine and provide feedback for some $NEAR
 
-### Upcoming Events
+-----
+&nbsp; 
+## Upcoming Events
 
-**virtual**: NA
+#### virtual**: NA
 
-**Asia**:
+#### Asia:
 
 - 1/25/2024 | Jakarta, Indonesia | BUILDRS Lounge by Pintu [Link]
 
-Europe:
+#### Europe
 
 - 1/18/2024 | London Business School | LBS Blockchain Society
 [London Blockchain Summit](https://www.londonblockchainsummit.xyz)
 
-**The United States**
+#### The United States
 
 - 3/18/2024 | San Francisco, CA | NF Gaming team - Mark, Alexey, Dillon.
 [GDC - Game Developer's Conference](https://gdconf.com/)
 
-**Africa**:
+#### Africa:
 
 If you are running a Local NEAR event please register as a Hackbox host [here], you can also add your event to the calendar to get it mentioned here. Please remember to add a link to the event too. 
 
+
+-----
+&nbsp; 
 **Quote of the Week:**
 
 *NEAR Dev WEEKLY is edited by:*
