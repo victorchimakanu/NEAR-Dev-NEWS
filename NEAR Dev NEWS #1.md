@@ -27,7 +27,7 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 -
 
-----
+
 &nbsp; 
 ### ARTICLES / TUTORIALS
 
