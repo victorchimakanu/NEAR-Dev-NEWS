@@ -6,7 +6,7 @@ This is a weekly summary of our Developer communities progress and technical upd
 
 NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If you find any errors in this week's issue, please submit a [PR].
 
-----
+
 &nbsp; 
 ### UPDATES from NEAR DevHub
 
@@ -36,13 +36,13 @@ NEAR Dev NEWS is developed on [GitHub] and archives can be viewed at [x]. If
 
 ----
 &nbsp; 
-## CALL FOR PROJECTS
+### CALL FOR PROJECTS
 
 Always wanted to contribute to open-source projects but did not know where to start? Every week we highlight some On-Chain Quests from the Developer Community for you to pick and get started!
 
 Some of these Quests may also have mentors available, visit the task page for more information.
 
-## BOS VM PERFORMANCE TRIAGE
+### BOS VM PERFORMANCE TRIAGE
 
 **SUMMARY**:
 
@@ -53,7 +53,7 @@ Some of these Quests may also have mentors available, visit the task page for mo
 -
 
 &nbsp; 
-## CALL FOR TESTING: BOS WEB ENGINE
+### CALL FOR TESTING: BOS WEB ENGINE
 A call for trusted devs to test out BOS Web Engine and provide feedback for some $NEAR
 
 -----
